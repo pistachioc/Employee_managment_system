@@ -1,0 +1,1 @@
+This is a demo project for my science research. Im just learning how code with Spring web, jpa, mysql and angular as well 
